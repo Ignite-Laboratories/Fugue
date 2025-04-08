@@ -5,5 +5,5 @@ import (
 )
 
 func init() {
-	fmt.Println("[fugue]")
+	fmt.Println("Module - [fugue]")
 }
